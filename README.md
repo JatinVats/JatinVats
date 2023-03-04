@@ -5,4 +5,4 @@
 - 🌱 Currently learning Full Stack Development
 
 Skill Set:
-<img src='https://user-images.githubusercontent.com/104900558/222894621-6a62cef1-93e0-4a47-984d-ebdbba441b63.png)' />
+<img src='![image](https://user-images.githubusercontent.com/104900558/222894652-4f332645-43b1-4922-8b96-a70361de50ad.png) />
